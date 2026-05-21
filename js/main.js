@@ -459,7 +459,7 @@ function recipe(){
     {
         rating: 4.6,
         reviewCount: 198,
-        imgUrl: '../img/it-11.jpg',
+        imgUrl: '../img/part-2.jpg',
         recipeName: "Creamy Mushroom Fettuccine",
         description: "Fettuccine pasta smothered in a rich, velvety garlic parmesan cream sauce with sautéed cremini mushrooms",
         difficulty: "Easy",
@@ -504,7 +504,7 @@ function recipe(){
     {
         rating: 4.8,
         reviewCount: 340,
-        imgUrl: '../img/it-12.jpg',
+        imgUrl: '../img/images-12.jpg',
         recipeName: "Honey Garlic Glazed Chicken",
         description: "Tender, juicy pan-seared chicken breasts coated in a sticky, sweet, and savory honey garlic glaze",
         difficulty: "Easy",
@@ -549,7 +549,7 @@ function recipe(){
     {
         rating: 4.8,
         reviewCount: 167,
-        imgUrl: '../img/it-13.jpg',
+        imgUrl: '../img/images-13.jpg',
         recipeName: "Middle Eastern Beef Kofta",
         description: "Spiced ground beef skewers grilled to perfection, packed with fresh parsley, onions, and traditional herbs",
         difficulty: "Intermediate",
@@ -593,7 +593,7 @@ function recipe(){
     {
         rating: 4.7,
         reviewCount: 215,
-        imgUrl: '../img/it-14.jpg',
+        imgUrl: '../img/img_14.jpg',
         recipeName: "Classic Beef Stroganoff",
         description: "Tender strips of beef sirloin and sliced mushrooms simmered in a rich sour cream gravy over egg noodles",
         difficulty: "Intermediate",
@@ -638,7 +638,7 @@ function recipe(){
     {
         rating: 4.9,
         reviewCount: 380,
-        imgUrl: '../img/it-15.jpg',
+        imgUrl: '../img/frame-margherita-pizza-15.jpg',
         recipeName: "Homemade Margherita Pizza",
         description: "Simple yet perfect Italian pizza with a crispy crust, aromatic tomato sauce, fresh mozzarella, and basil leaves",
         difficulty: "Intermediate",
@@ -682,13 +682,13 @@ function recipe(){
     {
         rating: 4.5,
         reviewCount: 104,
-        imgUrl: '../img/it-16.jpg',
+        imgUrl: '../img/images-16.jpg',
         recipeName: "Mediterranean Chickpea Salad",
         description: "A refreshing, no-cook dinner bowl featuring protein-packed chickpeas, cucumbers, feta cheese, and a zesty lemon dressing",
         difficulty: "Easy",
         difficultyItems: "Mediterranean",
         prepTime: 15,
-        cookTime: 0,
+        cookTime: 10,
         serving: 2,
         timeWarning: false,
         Ingredients: [
@@ -726,7 +726,7 @@ function recipe(){
     {
         rating: 4.8,
         reviewCount: 192,
-        imgUrl: '../img/it-17.jpg',
+        imgUrl: '../img/img-17.jpg',
         recipeName: "Teriyaki Salmon Stir-Fry",
         description: "Flaky pan-seared salmon cubes and fresh broccoli florets tossed in a sweet ginger teriyaki glaze",
         difficulty: "Easy",
@@ -771,7 +771,7 @@ function recipe(){
     {
         rating: 4.9,
         reviewCount: 425,
-        imgUrl: '../img/it-18.jpg',
+        imgUrl: '../img/18.jpg',
         recipeName: "Creamy Tuscan Garlic Chicken",
         description: "Pan-fried chicken breasts nestled inside a luxurious garlic cream sauce filled with sun-dried tomatoes and spinach",
         difficulty: "Intermediate",
